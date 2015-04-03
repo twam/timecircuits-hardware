@@ -1,0 +1,6 @@
+Rev 1.0:
+- (optional) pull-Up on BLANK lines
+- label +/- on power connector
+- label BLANK, SCLK, DIN, DOUT, LATCH, ... on input/output connector
+- round corners on pcb edge
+- move LED D4 down
